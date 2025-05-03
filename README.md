@@ -16,7 +16,6 @@ requirements.txt → List of dependencies
 
 **🛠 Installation & Usage**
 Clone the repository
-git clone https://github.com/aslin72/AGE_GENDER_DETECTION.git
 cd AGE_GENDER_DETECTION
 Install dependencies
 pip install -r requirements.txt
